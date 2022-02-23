@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Feb 22 23:32:32 2022
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : adda_test
+Top-level Entity Name : adda_test
+Family : Cyclone IV E
+Total logic elements : 6,338
+    Total combinational functions : 3,121
+    Dedicated logic registers : 3,627
+Total registers : 3627
+Total pins : 49
+Total virtual pins : 0
+Total memory bits : 49,152
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 2

@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at lcd_display.v(49): always construct contains both blocking and non-blocking assignments File: E:/Quartus II 18.1/verilog/topic4/lcd_display.v Line: 49
